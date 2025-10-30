@@ -1,0 +1,17 @@
+venv/
+.env
+helper.md
+to_do.txt
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# logs, cache, temp. files
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,1 @@
+from app.routers.channel import router as channel_router

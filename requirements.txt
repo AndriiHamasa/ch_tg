@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+alembic
+python-dotenv
+openai
+langgraph
+langchain
+celery
+redis
+psycopg2-binary
+sqlalchemy
+python-telegram-bot
